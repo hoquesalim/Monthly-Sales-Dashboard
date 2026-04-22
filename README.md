@@ -35,5 +35,5 @@ Open ReferenceData.xlsx, Sales_Transactions.xlsx, and Sales_Transactions_Staging
 Explore the interactive dashboard and use slicers to filter and analyze sales data.
 
 ## Technologies Used:
-- Microsoft Excel (Pivot Tables, Slicers, Charts)
+- Power BI was used exclusively for creating charts, graphs, and dashboards
 - Data Cleaning & Preparation in Excel
