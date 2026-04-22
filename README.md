@@ -1,6 +1,9 @@
 # Monthly Sales Data Analysis & Interactive Dashboard (MS Excel):
 ## Objective:
 Developed a comprehensive Monthly Sales Performance dashboard in MS Excel to empower business users to track sales, identify trends, and make informed decisions. The dashboard visualizes monthly sales, highlights best-selling products and top customers, and supports strategic planning for revenue growth and operational efficiency.
+## Dashboard:
+![Sales Dashboard](Sales_dashboard.png)
+
 ## Data Sources:
 - [ReferenceData.xlsx](https://github.com/hoquesalim/Monthly-Sales-Dashboard/raw/main/ReferenceData.xlsx)
 - [Sales_Transactions.xlsx](https://github.com/hoquesalim/Monthly-Sales-Dashboard/raw/main/Sales_Transactions.xlsx)
