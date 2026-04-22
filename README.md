@@ -2,9 +2,9 @@
 ## Objective:
 Developed a comprehensive Monthly Sales Performance dashboard in MS Excel to empower business users to track sales, identify trends, and make informed decisions. The dashboard visualizes monthly sales, highlights best-selling products and top customers, and supports strategic planning for revenue growth and operational efficiency.
 ## Data Sources:
-- `ReferenceData.xlsx`
-- `Sales_Transactions.xlsx`
-- `Sales_Transactions_Staging.xlsx`
+- [ReferenceData.xlsx](./ReferenceData.xlsx)
+- [Sales_Transactions.xlsx](./Sales_Transactions.xlsx)
+- [Sales_Transactions_Staging.xlsx](./Sales_Transactions_Staging.xlsx)
 ## Key KPIs & Business Questions:
 - Total sales revenue for the current month
 - Month-over-month sales comparison
