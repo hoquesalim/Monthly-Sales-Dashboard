@@ -2,6 +2,13 @@
 
 **Project Objective:**
 The goal of this project is to create a Monthly Sales Performance dashboard that helps business users track sales results, spot trends, and make informed decisions. The dashboard will show monthly sales, highlight best-selling products and top customers, and support planning to boost revenue and efficiency.
+
+## Dataset used
+- [ReferenceData.xlsx](Datasets/ReferenceData.xlsx)
+- [Sales_Transactions.xlsx](Datasets/Sales_Transactions.xlsx)
+- [Sales_Transactions_Staging.xlsx](Datasets/Sales_Transactions_Staging.xlsx)
+
+
 ## Questions (KPIs):
 - What is the total sales revenue for the current month?
 - How do this month’s sales compare to previous months?
