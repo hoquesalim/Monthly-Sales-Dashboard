@@ -27,6 +27,8 @@ Developed a comprehensive Monthly Sales Performance dashboard in MS Excel to emp
 - Sales target achievement
 - Average order value
 - Identification of underperforming products/regions
+
+  
 ## How to Use
 Download the Excel files from the Data Sources section.
 Open ReferenceData.xlsx, Sales_Transactions.xlsx, and Sales_Transactions_Staging.xlsx in Microsoft Excel.
