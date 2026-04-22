@@ -33,8 +33,7 @@ Developed a comprehensive Monthly Sales Performance dashboard in MS Excel to emp
 Download the Excel files from the Data Sources section.
 Open ReferenceData.xlsx, Sales_Transactions.xlsx, and Sales_Transactions_Staging.xlsx in Microsoft Excel.
 Explore the interactive dashboard and use slicers to filter and analyze sales data.
-##Technologies Used
-Microsoft Excel (Pivot Tables, Slicers, Charts)
-Data Cleaning & Preparation in Excel
 
-
+## Technologies Used
+- Microsoft Excel (Pivot Tables, Slicers, Charts)
+- Data Cleaning & Preparation in Excel
