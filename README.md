@@ -28,3 +28,8 @@ The goal of this project is to create a Monthly Sales Performance dashboard that
 - Created pivot tables to answer key business questions.
 - Consolidated all pivot tables into a single dashboard and applied slicers for dynamic analysis.
 
+  ## Dashboard Screenshots:
+
+![Monthly Sales Dashboard Performance](Sales_dashboard.png)
+
+
