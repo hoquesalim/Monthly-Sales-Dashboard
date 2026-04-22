@@ -1,3 +1,15 @@
+## Table of Contents
+- [Objective](#objective)
+- [Dashboard](#dashboard)
+- [Data Sources](#data-sources)
+- [Key KPIs & Business Questions](#key-kpis--business-questions)
+- [How to Use](#how-to-use)
+- [Technologies Used](#technologies-used)
+- [Contact](#contact)
+
+
+
+
 # Monthly Sales Data Analysis & Interactive Dashboard (MS Excel):
 ## Objective:
 Developed a comprehensive Monthly Sales Performance dashboard in MS Excel to empower business users to track sales, identify trends, and make informed decisions. The dashboard visualizes monthly sales, highlights best-selling products and top customers, and supports strategic planning for revenue growth and operational efficiency.
