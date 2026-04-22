@@ -5,6 +5,7 @@ Developed a comprehensive Monthly Sales Performance dashboard in MS Excel to emp
 - [ReferenceData.xlsx](./ReferenceData.xlsx)
 - [Sales_Transactions.xlsx](./Sales_Transactions.xlsx)
 - [Sales_Transactions_Staging.xlsx](./Sales_Transactions_Staging.xlsx)
+- [ReferenceData.xlsx](https://github.com/hoquesalim/Monthly-Sales-Dashboard/raw/main/ReferenceData.xlsx)
 ## Key KPIs & Business Questions:
 - Total sales revenue for the current month
 - Month-over-month sales comparison
