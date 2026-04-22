@@ -1,3 +1,4 @@
+# Monthly Sales Data Analysis & Interactive Dashboard (MS Excel):
 ## Table of Contents
 - [Objective](#objective)
 - [Dashboard](#dashboard)
@@ -5,12 +6,7 @@
 - [Key KPIs & Business Questions](#key-kpis--business-questions)
 - [How to Use](#how-to-use)
 - [Technologies Used](#technologies-used)
-- [Contact](#contact)
 
-
-
-
-# Monthly Sales Data Analysis & Interactive Dashboard (MS Excel):
 ## Objective:
 Developed a comprehensive Monthly Sales Performance dashboard in MS Excel to empower business users to track sales, identify trends, and make informed decisions. The dashboard visualizes monthly sales, highlights best-selling products and top customers, and supports strategic planning for revenue growth and operational efficiency.
 ## Dashboard:
@@ -20,7 +16,6 @@ Developed a comprehensive Monthly Sales Performance dashboard in MS Excel to emp
 - [ReferenceData.xlsx](https://github.com/hoquesalim/Monthly-Sales-Dashboard/raw/main/ReferenceData.xlsx)
 - [Sales_Transactions.xlsx](https://github.com/hoquesalim/Monthly-Sales-Dashboard/raw/main/Sales_Transactions.xlsx)
 - [Sales_Transactions_Staging.xlsx](https://github.com/hoquesalim/Monthly-Sales-Dashboard/raw/main/Sales_Transactions_Staging.xlsx)
-
   
 ## Key KPIs & Business Questions:
 - Total sales revenue for the current month
@@ -32,19 +27,12 @@ Developed a comprehensive Monthly Sales Performance dashboard in MS Excel to emp
 - Sales target achievement
 - Average order value
 - Identification of underperforming products/regions
-## Process:
-- Verified and cleaned data for missing values, anomalies, and consistency
-- Standardized data types and formats
-- Built pivot tables to answer key business questions
-- Consolidated pivot tables into a single interactive dashboard
-- Implemented slicers for dynamic, user-driven analysis
-## Insights & Impact:
-- Identified sales peaks during promotional periods and seasonal trends
-- Pinpointed top products and customer segments for targeted marketing
-- Highlighted high-performing regions and channels for potential expansion
-- Provided visibility into profit margins and average order values
-- Flagged underperforming products/regions for corrective action
-## Conclusion:
-The dashboard delivers actionable insights, enabling stakeholders to make data-driven decisions, optimize sales strategies, and drive continuous improvement. Ongoing use supports proactive management and fosters a culture of operational excellence.
+## How to Use
+Download the Excel files from the Data Sources section.
+Open ReferenceData.xlsx, Sales_Transactions.xlsx, and Sales_Transactions_Staging.xlsx in Microsoft Excel.
+Explore the interactive dashboard and use slicers to filter and analyze sales data.
+##Technologies Used
+Microsoft Excel (Pivot Tables, Slicers, Charts)
+Data Cleaning & Preparation in Excel
 
 
