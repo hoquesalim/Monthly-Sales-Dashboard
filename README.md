@@ -14,3 +14,4 @@ The goal of this project is to create a Monthly Sales Performance dashboard that
 •	Are sales targets being met or exceeded?
 •	What is the average order value?
 •	Are there any underperforming products or regions that need attention?
+
