@@ -1,7 +1,9 @@
-Monthly-Sales-Data- Analysis (Interactive Dashboard Creation using MS Excel)
-Project Objective:
+**Monthly-Sales-Data- Analysis (Interactive Dashboard Creation using MS Excel)**
+
+**Project Objective:**
 The goal of this project is to create a Monthly Sales Performance dashboard that helps business users track sales results, spot trends, and make informed decisions. The dashboard will show monthly sales, highlight best-selling products and top customers, and support planning to boost revenue and efficiency.
-Questions (KPIs):
+
+**Questions (KPIs):**
 •	What is the total sales revenue for the current month?
 •	How do this month’s sales compare to previous months?
 •	Which products are the top sellers this month?
